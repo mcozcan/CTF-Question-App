@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THT-CTF-BySciaa", "THT-CTF-BySciaa\THT-CTF-BySciaa.csproj", "{8072012C-65A3-464C-9DD6-D86753D72E66}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CTF-THT-BySciaa", "CTF-THT-BySciaa\CTF-THT-BySciaa.vdproj", "{CB1F1728-2D97-4214-AE47-D50B8BAD38C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8072012C-65A3-464C-9DD6-D86753D72E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8072012C-65A3-464C-9DD6-D86753D72E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8072012C-65A3-464C-9DD6-D86753D72E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8072012C-65A3-464C-9DD6-D86753D72E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB1F1728-2D97-4214-AE47-D50B8BAD38C7}.Debug|Any CPU.ActiveCfg = Debug
+		{CB1F1728-2D97-4214-AE47-D50B8BAD38C7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37539F36-8F2C-4390-B465-571E5E6F0872}
+	EndGlobalSection
+EndGlobal
